@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "VartexSMP-cKT5.aternos.me",
+    "port": 23363,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Any1 from vcf?",
+        "HELLO!",
+        "Any1 can help?!"
       ]
     },
     "chat-log": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1510306286875443252/ztbVrZK0mw9Nk0wcAWKiys0PxK8kWFeZ9FfZwKw1w5b8-Tu8U-nBD1Qnnt5o2PgR8QIi",
     "events": {
       "connect": true,
       "disconnect": true,

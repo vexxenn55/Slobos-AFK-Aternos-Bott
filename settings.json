@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Vartexx",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "VartexSMP-cKT5.aternos.me",
+    "port": 23363,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1510306286875443252/ztbVrZK0mw9Nk0wcAWKiys0PxK8kWFeZ9FfZwKw1w5b8-Tu8U-nBD1Qnnt5o2PgR8QIi",
     "events": {
       "connect": true,
       "disconnect": true,
